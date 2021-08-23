@@ -13,4 +13,4 @@ Le Terminal permet de :
 
 First command:
 
-	pwd : Print Working Directory (Afficher le repertoire de travail)
+	#pwd# : Print Working Directory (Afficher le repertoire de travail)
