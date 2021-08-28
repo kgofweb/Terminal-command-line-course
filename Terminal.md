@@ -7,11 +7,11 @@ avec son ordinateur via l’écriture de lignes de commande.
 
 Le Terminal permet de : 
 
-	naviguer dans une arborescence de fichiers
-	créer, supprimer et déplacer des dossiers et des fichiers
-	lancer des programmes.
+	- naviguer dans une arborescence de fichiers
+	- créer, supprimer et déplacer des dossiers et des fichiers
+	- lancer des programmes.
 
-command:
+# command:
 
 	pwd : Print Working Directory (Afficher le repertoire de travail)
 	
@@ -33,22 +33,11 @@ command:
 	cd ../nameFolder : Sortir du dossier courant et entrer dans le dossier voulu
 		
 
-Raccourcis :
+# Raccourcis :
 	
-	la flèche haut et la flèche bas permettent de naviguer dans l'historique du terminal et de relancer des commandes déjà tapées précédemment
+	la flèche du haut et la flèche du bas permettent de naviguer dans l'historique du terminal et de relancer des commandes déjà tapées précédemment
 	La touche tab permet autocomplétion
 	ctrl + r cette combinaison permet de faire une recherche dans l'historique des commandes
 	ctrl + a et ctrl + e : ces deux combinaison permettent respectivement d'aller automatiquement au tout 
 	début ou à la toute fin de la ligne de commande
-
-
-
-
-
-
-
-
-
-
-
-
+	
